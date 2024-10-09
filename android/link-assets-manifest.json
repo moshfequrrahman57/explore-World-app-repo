@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/Fonts/JosefinSlab-Bold.ttf",
+      "sha1": "f3dd3e9f10cc53355d9da65b4e66d2572ecaf1e4"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-BoldItalic.ttf",
+      "sha1": "ea7ec97972f05f4941fcf74583ca05ac7a74d547"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-ExtraLight.ttf",
+      "sha1": "6760770e3446aa13f039ee1718786132a72e2890"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-ExtraLightItalic.ttf",
+      "sha1": "d217cb919ea5f9eb0ebf2641f8e89f6ca328dacf"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-Italic.ttf",
+      "sha1": "515b375e63eb9f14091e6c3323229b01d1201265"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-Light.ttf",
+      "sha1": "0457b11e3e9c9626363d76cccb5bd5f9cf7a421e"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-LightItalic.ttf",
+      "sha1": "44272aa12fed537fd31143188034291c961937a6"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-Medium.ttf",
+      "sha1": "5bd9fba3d48a321757fc630722c59794d6d5e484"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-MediumItalic.ttf",
+      "sha1": "7bc0569a20f6f1e53c6ebc9ae5f21722676d1f34"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-Regular.ttf",
+      "sha1": "5e4e17f30483e03cfba82abf8c03b43eba01fc0a"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-SemiBold.ttf",
+      "sha1": "711143b65620969132d82ee2a4027984bd696b84"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-SemiBoldItalic.ttf",
+      "sha1": "a727c010ae633a43b60cb571b3112a06e64a506f"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-Thin.ttf",
+      "sha1": "95cc848c5fabc0cdfe9f80c9f40041792f8544af"
+    },
+    {
+      "path": "assets/Fonts/JosefinSlab-ThinItalic.ttf",
+      "sha1": "76a8eed7d0d74aa3c257553cdfde283211a18ab0"
+    },
+    {
+      "path": "assets/Fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "assets/Fonts/SixtyfourConvergence-Regular.ttf",
+      "sha1": "5e45108c4d612b99293fe76d1cb7d6a518502e8b"
+    }
+  ]
+}
